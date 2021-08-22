@@ -1,0 +1,28 @@
+{
+  "name": "js-algorithms",
+  "version": "1.0.0",
+  "description": "Implementations and testing of js algorithms ",
+  "main": "index.js",
+  "scripts": {
+    "test": "jest"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dyarawilliams/js-algorithms.git"
+  },
+  "keywords": [
+    "js",
+    "algorithms",
+    "javascript",
+    "testing"
+  ],
+  "author": "D'yara Williams",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dyarawilliams/js-algorithms/issues"
+  },
+  "homepage": "https://github.com/dyarawilliams/js-algorithms#readme",
+  "devDependencies": {
+    "jest": "^27.0.6"
+  }
+}
